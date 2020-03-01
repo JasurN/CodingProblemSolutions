@@ -1,5 +1,5 @@
-# Time O(1)
-# Space O(1)
+# Time complexity: O(1)
+# Space complexity: O(1)
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
         temp_dict = {0: 0, 1: 5, 2: 10, 3: 15, 4: 20, 5: 25, 6: 30, 7: 35, 8: 40, 9: 45, 10: 50, 11: 55, 12: 0}

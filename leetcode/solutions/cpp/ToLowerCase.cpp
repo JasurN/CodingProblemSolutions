@@ -1,3 +1,5 @@
+// Time complexity: O(n)
+// Space complexity: O(1)
 #include <iostream>
 #include <cstring>
 using namespace std;

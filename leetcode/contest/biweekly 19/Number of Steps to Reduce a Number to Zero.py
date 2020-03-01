@@ -1,3 +1,5 @@
+# Time complexity: O(log(n))
+# Space complexity: O(1)
 class Solution:
     def numberOfSteps(self, num: int) -> int:
         counter = 0

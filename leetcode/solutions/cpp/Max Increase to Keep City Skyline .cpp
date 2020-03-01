@@ -1,3 +1,5 @@
+// Time complexity: O(n^4)
+// Space complexity: O(n^2)
 #include <iostream>
 #include <string>
 #include <vector>
