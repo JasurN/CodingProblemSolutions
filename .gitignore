@@ -1,3 +1,6 @@
 /.idea/
 /cmake-build-debug/
 /env_algo/
+/main.js
+/main.cpp
+/main.py
